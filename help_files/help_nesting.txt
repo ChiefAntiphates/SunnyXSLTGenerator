@@ -1,0 +1,11 @@
+SELECTING THE NESTING TAG
+-----------------------
+
+The system has been unable to automatically identify
+a looping tag for the XSLT file.
+
+The tag listed in the instructions occurs for each
+time a tag in the input file occurs.
+
+You must highlight which tag in the input file, the 
+listed tag happens for each of.

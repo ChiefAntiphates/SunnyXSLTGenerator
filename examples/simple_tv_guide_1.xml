@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<simple_guide>
+	<channel name="Wave">
+		<show name="Terminator XIII: Swarm Algorithms!" date="05/02/2021"></show>
+		<show name="Glue Planet" date="05/02/2021"></show>
+		<show name="Everyone Hates Ruby" date="06/02/2021"></show>
+		<show name="Drink Oats!" date="06/02/2021"></show>
+	</channel>
+	
+	<channel name="Too Many Movies">
+		<show name="Avatar 2: Now They're Green" date="05/02/2021"></show>
+		<show name="Alienz: 2 Kool For 2 Skool" date="06/02/2021"></show>
+		<show name="2 Fast 2 Furious 2" date="06/02/2021"></show>
+	</channel>
+</simple_guide>

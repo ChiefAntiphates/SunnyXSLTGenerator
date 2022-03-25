@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<broadcasts month="June">
+
+	<channel name="Wave" code="WV" channel_number="452">
+	
+		<broadcast_day date="05/02/2021">
+		
+			<transmission>
+				<name>Terminator XIII: Swarm Algorithms!</name>
+				<length hhmmss="01:38:15" minutes="98.15"></length>
+				<time start_time="09:00:00" end_time="11:00:00"></time>
+				<number_of_breaks>4</number_of_breaks>
+				
+				<movie product_id="T8-SA">
+					<director>Games Gameron</director>
+					<rotten_tomatoes>99%</rotten_tomatoes>
+					<rotten_tomatoes_fresh>Fresh</rotten_tomatoes_fresh>
+					<imdb>8.6/10</imdb>
+				</movie>
+			</transmission>
+			
+			<transmission>
+				<name>Glue Planet</name>
+				<length hhmmss="00:45:06" minutes="45.06"></length>
+				<time start_time="12:00:00" end_time="13:12:10"></time>
+				<number_of_breaks>6</number_of_breaks>
+				
+				<programme product_id="GPNT">
+					<name>How Sticky is too Sticky?</name>
+					<series>2</series>
+					<ep_no>4</ep_no>
+				</programme>
+			</transmission>
+			
+		</broadcast_day>
+		
+		
+		<broadcast_day date="06/02/2021">
+		
+			<transmission>
+				<name>Everyone Hates Ruby</name>
+				<length hhmmss="00:22:35" minutes="22.35"></length>
+				<time start_time="15:00:00" end_time="16:45:50"></time>
+				<number_of_breaks>5</number_of_breaks>
+				
+				<programme product_id="EH-RB">
+					<name>Where Did it Start to Go Wrong?</name>
+					<series>1</series>
+					<ep_no>1</ep_no>
+				</programme>
+			</transmission>
+			
+			<transmission>
+				<name>Drink Oats!</name>
+				<length hhmmss="01:48:15" minutes="108.15"></length>
+				<time start_time="12:25:00" end_time="15:22:50"></time>
+				<number_of_breaks>8</number_of_breaks>
+				
+				<movie product_id="DRK-O">
+					<director>Carlyle of White</director>
+					<rotten_tomatoes>87%</rotten_tomatoes>
+					<rotten_tomatoes_fresh>Fresh</rotten_tomatoes_fresh>
+					<imdb>9.7/10</imdb>
+				</movie>
+			</transmission>
+			
+		</broadcast_day>
+		
+	</channel>
+	
+	
+	<channel name="Too Many Movies" code="TMM" channel_number="818">
+	
+		<broadcast_day date="05/02/2021">
+		
+			<transmission>
+				<name>Avatar 2: Now They're Green</name>
+				<length hhmmss="03:06:57" minutes="186.57"></length>
+				<time start_time="07:00:00" end_time="11:45:00"></time>
+				<number_of_breaks>6</number_of_breaks>
+				
+				<movie product_id="AVTR">
+					<director>Games Gameron Jr.</director>
+					<rotten_tomatoes>4%</rotten_tomatoes>
+					<rotten_tomatoes_fresh>Rotten</rotten_tomatoes_fresh>
+					<imdb>5.5/10</imdb>
+				</movie>
+			</transmission>
+			
+		</broadcast_day>
+		
+		
+		<broadcast_day date="06/02/2021">
+		
+			<transmission>
+				<name>Alienz: 2 Kool For 2 Skool</name>
+				<length hhmmss="01:20:06" minutes="80.06"></length>
+				<time start_time="15:00:00" end_time="16:45:50"></time>
+				<number_of_breaks>5</number_of_breaks>
+				
+				<movie product_id="A2FS">
+					<director>Barny Arny</director>
+					<rotten_tomatoes>12%</rotten_tomatoes>
+					<rotten_tomatoes_fresh>Rotten</rotten_tomatoes_fresh>
+					<imdb>3.0/10</imdb>
+				</movie>
+			</transmission>
+			
+			<transmission>
+				<name>Fast and Furious 3</name>
+				<length hhmmss="01:38:15" minutes="98.15"></length>
+				<time start_time="12:25:00" end_time="15:22:50"></time>
+				<number_of_breaks>8</number_of_breaks>
+				<movie product_id="2FF2">
+					<director>Bichael May</director>
+					<rotten_tomatoes>99%</rotten_tomatoes>
+					<rotten_tomatoes_fresh>Fresh</rotten_tomatoes_fresh>
+					<imdb>8.6/10</imdb>
+				</movie>
+			</transmission>
+			
+		</broadcast_day>
+		
+	</channel>
+	
+</broadcasts>

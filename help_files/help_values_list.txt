@@ -1,0 +1,18 @@
+ASSINGING ALL TAGS A MAPPING VALUE
+-----------------------
+
+Upon entering this screen all tags will be red and have a 
+"Select Mapping Value" button next to each of them.
+
+For each of these tags, you must click on this button and
+complete the instructions shown. This will turn the tag
+green.
+
+Once all tags are green you may proceed to the next stage.
+
+
+
+If you have a BRD available, the paths of the mapping 
+values will be shown once you select them. If the path 
+appears incorrect, simply click the button again to 
+reselect the mapping value.

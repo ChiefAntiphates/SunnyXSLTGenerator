@@ -1,0 +1,36 @@
+SELECTING THE CORRECT TAG
+-----------------------
+
+Here, the system is asking you to select the correct tag/attribute
+from the input file that maps to the output tag displated.
+
+Once located, simply highlight the appropriate tag/attribute and
+click "Go!".
+
+Please ensure to only select one tag/attribute at a time.
+
+
+
+If you do not have a BRD available or are unsure, the system has 
+provided the value of the first instance of the tag for you to
+look for.
+
+For example if the value given is "foo" and the following tags
+are available:
+	
+		<tag_one>bar</tag_one>
+		<tag_two attr="foo" red="egg"/>
+		<tag_three>rod</tag_three>
+		
+You should highlight only the word "attr".
+
+
+
+Another example is if the value given is "iron" and the following tags
+are available:
+	
+		<tag_one>spider</tag_one>
+		<tag_two red_her="super" attr="bat"/>
+		<tag_three>iron</tag_three>
+		
+You should highlight only the word "tag_three".
